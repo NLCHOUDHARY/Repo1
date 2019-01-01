@@ -1,3 +1,10 @@
+
+
+rojects and corporate development teams. Create artifact feeds for your developers, 
+clients or the entire world. Packages can come from your build server, an upstream package source,
+ or we can build, test and transform your source code into a compiled NuGet, npm or PHP Composer package from your GitHub repository.
+
+
 Zube is an Agile project management platform that allows everyone on your team to communicate with the developers. On Zube, 
 t is easy to create an Agile workflow for your team with a kanban board, epics, and sprints. Zube’s seamless integration with 
 GitHub keeps all of your GitHub Issue data in sync across both platforms in real time.Zube is an Agile project management platform that
