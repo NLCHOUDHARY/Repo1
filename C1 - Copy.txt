@@ -1,0 +1,11 @@
+Zube is an Agile project management platform that allows everyone on your team to communicate with the developers. On Zube, 
+t is easy to create an Agile workflow for your team with a kanban board, epics, and sprints. Zube’s seamless integration with 
+GitHub keeps all of your GitHub Issue data in sync across both platforms in real time.Zube is an Agile project management platform that
+ allows everyone on your team to communicate with the developers. On Zube, it is easy to create an Agile workflow for your team with a 
+ kanban board, epics, and sprints. Zube’s seamless integration with GitHub keeps all of your GitHub Issue data in sync across both platf
+ orms in real time.Zube is an Agile project management platform that allows everyone on your team to communicate with the developers. On
+ Zube, it is easy to create an Agile workflow for your team with a kanban board, epics, and sprints. Zube’s seamless integration with Git
+ Hub keeps all of your GitHub Issue data in sync across both platforms in real time.Zube is an Agile project management platform that allo
+ ws everyone on your team to communicate with the developers. On Zube, it is easy to create an Agile workflow for your team with a kanban 
+ board, epics, and sprints. Zube’s seamless integration with 
+GitHub keeps all of your GitHub Issue data in sync across both platforms in real time.
